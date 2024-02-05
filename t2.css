@@ -1,0 +1,74 @@
+.nv{
+   background-color: black;
+   height: 35px;
+   color: white;
+   
+}
+.nv li{
+    float: left;
+    line-height: none;
+    color: white;
+    padding: 3px 3px;
+    list-style-type: none;
+    
+   
+}
+.nv li a{
+    color: white;
+    text-decoration: none;
+    margin: 20px 20px;
+}
+.wc{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.wc1{
+    /* color: blue; */
+    padding-left: 100px;
+}
+.im{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    padding: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.Skills{
+    border: 10px solid black;
+    border-radius: 40px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.ht img{
+    border: black;
+}
+.resume{
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 400px;
+    height: 200px;
+    padding: 3px;
+    margin: 10px auto;
+    box-sizing: border-box;
+    background-color: yellow;
+}
+.edu{
+    padding: 4px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.cont{
+    border: 2px solid black;
+    background-color: lightgray;
+    padding: 15px;
+    width: 250px;
+    margin: 10px auto;
+}
+.ml{
+    color: black;
+}
